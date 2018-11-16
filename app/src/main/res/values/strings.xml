@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <!-- Pager view label -->
+    <string name="pager_label">Popular Tourists Spots</string>
+
+    <!-- Introductory text Strings -->
+    <string name="intro_text_1">Hello there toursits!</string>
+    <string name="intro_text_2">Welcome to Abuja, the capital city of Nigeria.
+        There are a lot of places to visit, and this App will help you with some of our fantastic locations.</string>
+    <string name="intro_text_3">So Click This Button and Lets Begin</string>
+
+    <!-- Landmark text Strings -->
+    <string name="zuma_rock_heading">Zuma Rock</string>
+    <string name="zuma_rock_description">Commonly referred to as the gateway between Abuja and Suleja,
+        this large monolith in Niger State,Nigeria.
+        it is composed of gabbro and granodiorite, and stands at a height of 725 metres.
+        It was used for a defensive retreat by the Gbagyi people against invading neighbouring
+        tribes during intertribal warring.</string>
+    <string name="aso_rock_heading">Aso Rock</string>
+    <string name="aso_rock_description">At a height of 400 metre, this monolith is one of the city\'s
+        most noticeable feature,situated at the Asokoro district of Abuja.
+        around it are the Nigerian Presidential Complex, Nigerian National Assembly,
+        and Nigerian Supreme Court, the most important government structures in Nigeria.</string>
+    <string name="millenium_park_heading">Millenium Park</string>
+    <string name="milennium_park_description">The Millennium Park is the largest public park of Abuja,
+        and is located in the Maitama district of the city.
+        One side on the Park is dedicated to uncontaminated nature.
+        In a system of terraces at different levels are located Nigeria\'s mountain vegetation, Savanna,
+        Deciduous forest, Rainforest and brushwood as well as greenhouses for butterflies and tropical birds.
+        The other side, corresponding to the main entrance from road, is dedicated to
+        the scientific knowledge of the natural environment.</string>
+    <string name="abuja_national_mosque_heading">Abuja National Mosque</string>
+    <string name="abuja_national_mosque_description">The Abuja National Mosque, also known as the Nigerian National Mosque,
+        is the national mosque of Nigeria.The mosque was built in 1984 and is open to the non-Muslim public, except during
+        congregational prayers.The mosque is located in the capital city, Abuja, and is situated on Independence Avenue,
+        across from the National Christian Centre. It includes a library and a conference room.</string>
+
+    <!-- Restaurants text Strings -->
+    <string name="_355_steakhouse_and_lounge_heading">355 Steakhouse and Lounge</string>
+    <string name="_355_steakhouse_and_lounge_description">Located at 38, Osun street, off IBB Way, this restaurant, headed by
+        Chef Michel Paris Jr and head Chef Steve Grove promises to tantalize your taste buds with the ines of steaks this
+        side of abuja. it has an indoor restaurant and an outdoor lounge, where you can eat and take in the mesmerising view of Abuja</string>
+    <string name="chez_victor_heading">Chez Victor</string>
+    <string name="chez_victor_description">if you are looking to, as the french say, \"mettre du piment dans sa vie\",
+        then look no further than Chez Victor.They serve delicious, authentic French cuisine- I recommend ordering the
+        steak. The place is small and intimate which makes it perfect for romantic dinners for two. In addition to the
+        lovely decor the service is also very good. As you can imagine all this comes at a price. Chez Victor is expensive
+        but it\'s definetly worth it.</string>
+    <string name="chopsticks_heading">Chopsticks</string>
+    <string name="chopsticks_description">If you are looking for the best in terms of Asian
+        cuisine in Abuja,then look no further than Chopsticks. Situated at Mississipi Street
+        Maitama, this restaurants serves a large selection o cuisines, from the finest dumplings,
+        to the spiciest curry, all the way to the classic ramen fusion.</string>
+    <string name="obudu_grill_house_heading">Obudu Grill House</string>
+    <string name="obudu_grill_house_description">Enjoy the variety of grilled foods and barbequed
+        foods such as Cowboy Rib Eye, New York Strip Loin and Prime Fillet cuts. Located in Nigeria\'s
+        capital city, Abuja. Obudu Grill Restaurant boast of having one of the been one of the best steak
+        houses in Abuja with a unique dining experience that serves the finest steak cuts and grills prepared right before your eyes.</string>
+
+
+    <!-- Malls text Strings -->
+    <string name="ceddi_plaza_heading">Ceddi Plaza</string>
+    <string name="ceddi_plaza_description">This was built in 2004. It is notable as one of the landmarks of Abuja city
+        because of its imposing structure.One of the first modern shopping complex in Nigeria, Ceddi Plaza, like fine
+        wine, keeps getting better with time with movie theaters, a bookstore, wine shop, grocery, restaurants, pharmacy,
+        events hall and so much more present in it.</string>
+    <string name="dunes_center_heading">Dunes Center</string>
+    <string name="dunes_center_description">Carefully chosen to define luxury, Dunes Center is one of the most well
+        reputed shopping malls in Nigeria. It incorporates everything from original antiques and gift shops to quality
+        boutiques, as well as a supermarket, pastry shop and restaurant.</string>
+    <string name="silverbird_entertainment_center_heading">Silverbird Entertainment Center</string>
+    <string name="silverbird_entertainment_center_description">This intimidating and magnificent entertainment center is the crowning
+        glory of the Silverbird Group and one of the most popular shopping malls in Abuja.This 33,000 square metre retail structure
+        comprise of a 4-storey building. The ground and first floors are reserved for shopping stores, a lifestyle center for the
+        second floor, a 12 screen cinema for the third floor and the fourth floor is for penthouse rooms.</string>
+    <string name="the_capital_hub_heading">The Capital Hub</string>
+    <string name="the_capital_hub_description">The Capital Hub provides a diverse range of exclusive retail shops as well
+        as some executive offices in addition to top leisure and family entertainment.The wide range of retail shops cutting
+        across different sectors and the variety of different entertainment offerings makes The Capital Hub a most desired
+        spot for fun seekers and business executives alike.</string>
+
+    <!-- Hotels text Strings -->
+    <string name="transcorp_hilton_heading">Transcorp Hilton Abuja</string>
+    <string name="transcorp_hilton_description">Transcorp Hilton Abuja is a 4-Star, state of the art, hotel located at
+        1 Aguiyi Ironsi Street, Maitama, Abuja.Transcorp Hilton Abuja has 670 luxuriously decorated rooms and offers
+        complimentary breakfast, all-day snacks and refreshment, cocktails, local/international newspapers and magazines
+        to all guests.The hotel has 7 restaurants and bars with a wide range of international and local cuisine coupled
+        with a selection of the best wines and cocktails.</string>
+    <string name="fraser_suites_heading">Fraser Suites Abuja</string>
+    <string name="fraser_suites_description"><![CDATA[Fraser Suites Abuja is nestled in the heart of the modern
+     Federal Capital of Nigeria. The newly opened Fraser Suites features 126 Gold-Standard residences that combine
+      comfort, style & technology with outstanding facilities and exclusive in-house services.Each room features a
+      spacious bathroom, king-sized beds, cable connected LCD TV sets, refrigerators and air conditioners.]]></string>
+    <string name="sheraton_hotel_heading">Sheraton Abuja Hotel</string>
+    <string name="sheraton_hotel_description">Located in the classy Maitama area of Abuja, it provides tasteful
+        accommodation options to its guests. The rooms on the top levels offer a beautiful view of the elegant
+        Abuja city.It offers round-the-clock front desk service, concierge, and car rental services.</string>
+    <string name="bon_hotel_heading">BON Hotel Abuja</string>
+    <string name="bon_hotel_description">An imposing architectural masterpiece with a perfect touch of class,
+        the BON Hotel is elegantly nestled close to Abuja\'s city centre.The 28 well-appointed luxury rooms
+        available in the hotel are categorised into Classic, Executive and Loft Suites. A gourmet restaurant
+        serves mouth-watering buffet breakfast, and delicious lunch and dinner complimented with an exotic bar
+        stocked with all kinds of assorted drinks.</string>
+
+
+
+</resources>
